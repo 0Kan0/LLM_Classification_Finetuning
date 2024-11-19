@@ -7,6 +7,8 @@ This challenge aligns with the concept of "reward models" or "preference models"
 
 This competition challenge is to predict which responses a human would prefer in a head-to-head battle between chatbots powered by large language models (LLMs).
 
+https://www.kaggle.com/competitions/llm-classification-finetuning
+
 # Evaluation
 Submissions are evaluated on the log loss between the predicted probabilities and the ground truth values (with "eps=auto").
 
